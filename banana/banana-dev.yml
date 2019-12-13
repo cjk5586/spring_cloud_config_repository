@@ -2,4 +2,4 @@ server:
   port: 8812
 
 test:
-  message: work dev
+  message: banana dev

@@ -1,7 +1,8 @@
 # 서버포트
 server:
-  port: 8802
+  port: 8801
 
 # 테스트 메시지
 test:
-  message: work default
+  message: apple default
+  

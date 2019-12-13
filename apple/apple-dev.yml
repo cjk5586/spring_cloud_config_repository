@@ -2,4 +2,4 @@ server:
   port: 8802
 
 test:
-  message: member dev
+  message: apple dev

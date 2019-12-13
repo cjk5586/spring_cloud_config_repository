@@ -1,8 +1,7 @@
 # 서버포트
 server:
-  port: 8801
+  port: 8802
 
 # 테스트 메시지
 test:
-  message: member default
-  
+  message: banana default
