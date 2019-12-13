@@ -1,0 +1,5 @@
+server:
+  port: 8803
+
+test:
+  message: member prod
